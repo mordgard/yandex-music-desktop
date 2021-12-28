@@ -1,0 +1,15 @@
+{
+  "name": "yandex-music-desktop",
+  "version": "0.0.1",
+  "description": "Desktop Yandex Music app",
+  "main": "main.js",
+  "author": "Mikhail Sharakou",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^16.0.5"
+  }
+}
